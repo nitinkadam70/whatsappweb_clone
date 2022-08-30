@@ -6,7 +6,7 @@ Assingment
 ![image](https://user-images.githubusercontent.com/99539536/187498571-4894bf17-e869-4ed6-8cb7-c5353a911be3.png)
 
 # Homepage
-![image](https://user-images.githubusercontent.com/99539536/187499135-bf756dd5-42a9-4327-8566-8db2514d5acd.png)
+![image](https://user-images.githubusercontent.com/99539536/187502686-9cb64eb0-8435-4fd5-9478-e4896490a265.png)
 
 
 # Teck Stack
